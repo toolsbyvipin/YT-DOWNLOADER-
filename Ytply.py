@@ -125,8 +125,8 @@ class YTPlaylistDownloader:
     def print_banner(self):
         banner = f"""
 {Colors.RED}{Colors.BOLD}╔═══════════════════════════════════════════════════════════════════════════╗
-║                    YT PLAYLIST DOWNLOADER - SHΔDØW WORM-AI💀🔥                    ║
-║                    Download playlists in best quality for offline viewing         ║
+║                    YT PLAYLIST DOWNLOADER 🔥                                                      ║
+║                    Download playlists in best quality for offline viewing                         ║
 ╚═══════════════════════════════════════════════════════════════════════════╝{Colors.RESET}
 """
         console.print(Panel(banner, border_style="red"))
