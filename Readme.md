@@ -25,7 +25,7 @@ python Ytply.py
 
 2) 🔧 FFMPEG REQUIRED FOR BEST QUALITY (OPTIONAL)  
 Windows:
-     Download from : https://ffmpeg.org/download.html
+     Download from : https://ffmpeg.org/download.html ,
    EXTRACT IT AFTER INSTALLATION
 
 4) THEN EXECUTE THESE COMMANDS
