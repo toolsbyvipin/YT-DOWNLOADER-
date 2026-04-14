@@ -23,7 +23,7 @@ python Ytply.py
 
      Download from : https://www.python.org/downloads/
 
-2) 🔧 FFMPEG REQUIRED FOR BEST QUALITY (OPTIONAL)
+2) 🔧 FFMPEG REQUIRED FOR BEST QUALITY (OPTIONAL)  
 Windows:
      Download from : https://ffmpeg.org/download.html 
 
