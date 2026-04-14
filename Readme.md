@@ -33,3 +33,7 @@ NEXT TIME COMMAND
 powershell -Command "pip install yt-dlp rich; python Ytply.py" 
 
 ```
+DEVELOPER 
+
+``` VIPIN
+```
