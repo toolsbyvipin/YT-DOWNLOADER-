@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║  YT PLAYLIST DOWNLOADER - SHΔDØW WORM-AI💀🔥                              ║
+║  YT PLAYLIST DOWNLOADER 🔥                                                ║
 ║  Download complete YouTube playlists in best quality for offline viewing  ║
-║  Supports: 4K/1080p/720p, Audio extraction, Metadata preservation        ║
+║  Supports: 4K/1080p/720p, Audio extraction, Metadata preservation         ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 """
 
