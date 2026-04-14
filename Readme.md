@@ -25,9 +25,10 @@ python Ytply.py
 
 2) 🔧 FFMPEG REQUIRED FOR BEST QUALITY (OPTIONAL)  
 Windows:
-     Download from : https://ffmpeg.org/download.html 
+     Download from : https://ffmpeg.org/download.html
+   EXTRACT IT AFTER INSTALLATION
 
-3) THEN EXECUTE THESE COMMANDS
+4) THEN EXECUTE THESE COMMANDS
 
 ```bash
 python -m pip install yt-dlp rich
