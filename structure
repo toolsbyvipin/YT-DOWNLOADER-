@@ -1,0 +1,7 @@
+YT-DOWNLOADER-/
+├── yt_playlist_downloader.py   # Your main tool (already uploaded)
+├── requirements.txt             # Python dependencies
+├── README.md                    # Instructions
+├── setup.sh                     # Linux/macOS auto-setup
+├── setup.bat                    # Windows CMD auto-setup
+└── setup.ps1                    # Windows PowerShell auto-setup
