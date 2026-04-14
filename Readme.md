@@ -6,7 +6,7 @@ Download complete YouTube playlists in **best quality** for offline viewing.
 
 ### 1. Clone the repository
 
-FOR LINUX 
+## FOR LINUX 
 
 ```bash
 git clone https://github.com/toolsbyvipin/YT-DOWNLOADER-.git
@@ -17,16 +17,32 @@ sudo pacman -S ffmpeg
 python Ytply.py
 
 ```
-FOR WINDOWS 
+## FOR WINDOWS 
+
+1) FIRST INSTALL PYTHON FOR WINDOWS
+
+https://www.python.org/downloads/
+
+2) SECONDLY INSTALL FFMPEG FOR 4K RESOLUTION SUPPORT (OPTIONAL)
+  🔧 FFMPEG REQUIRED FOR BEST QUALITY
+
+To download videos in best quality (merging video + audio), you need ffmpeg installed.
+
+Windows:
+  1. Download from : https://ffmpeg.org/download.html 
+
+3) THEN EXECUTE THESE COMMANDS
 
 ```bash
-powershell -Command "Set-ExecutionPolicy Bypass -Scope Process -Force; $ffmpegPath='C:\ffmpeg'; if (!(Test-Path $ffmpegPath)) { Write-Host '📥 Downloading FFmpeg...' -ForegroundColor Yellow; Invoke-WebRequest -Uri 'https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip' -OutFile '$env:TEMP\ffmpeg.zip'; Expand-Archive -Path '$env:TEMP\ffmpeg.zip' -DestinationPath 'C:\' -Force; Move-Item 'C:\ffmpeg-*' 'C:\ffmpeg' -Force; Remove-Item '$env:TEMP\ffmpeg.zip' }; $env:Path += ';C:\ffmpeg\bin'; [Environment]::SetEnvironmentVariable('Path', $env:Path, 'User'); pip install yt-dlp rich; python Ytply.py"
-git clone https://github.com/toolsbyvipin/YT-DOWNLOADER-.git
-cd YT-DOWNLOADER-
-cd YT-DOWNLOADER-
- && pip install -r requirements.txt && python Ytply.py
- 
- ```
+python -m pip install yt-dlp rich
+
+Invoke-WebRequest -Uri "https://github.com/toolsbyvipin/YT-DOWNLOADER-/archive/refs/heads/main.zip" -OutFile "$env:USERPROFILE\Downloads\YT-DOWNLOADER.zip"
+Expand-Archive -Path "$env:USERPROFILE\Downloads\YT-DOWNLOADER.zip" -DestinationPath "$env:USERPROFILE\Downloads\" -Force
+cd Downloads
+cd YT-DOWNLOADER--main
+python Ytply.py
+```
+
 NEXT TIME COMMAND 
 
 ``` 
