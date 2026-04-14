@@ -21,11 +21,11 @@ python Ytply.py
 
 1) FIRST INSTALL PYTHON FOR WINDOWS
 
-https://www.python.org/downloads/
+     Download from : https://www.python.org/downloads/
 
 2) 🔧 FFMPEG REQUIRED FOR BEST QUALITY (OPTIONAL)
 Windows:
-  1. Download from : https://ffmpeg.org/download.html 
+     Download from : https://ffmpeg.org/download.html 
 
 3) THEN EXECUTE THESE COMMANDS
 
