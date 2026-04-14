@@ -23,11 +23,7 @@ python Ytply.py
 
 https://www.python.org/downloads/
 
-2) SECONDLY INSTALL FFMPEG FOR 4K RESOLUTION SUPPORT (OPTIONAL)
-  🔧 FFMPEG REQUIRED FOR BEST QUALITY
-
-To download videos in best quality (merging video + audio), you need ffmpeg installed.
-
+2) 🔧 FFMPEG REQUIRED FOR BEST QUALITY (OPTIONAL)
 Windows:
   1. Download from : https://ffmpeg.org/download.html 
 
