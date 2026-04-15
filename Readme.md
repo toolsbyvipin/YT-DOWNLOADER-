@@ -28,6 +28,7 @@ Windows:
 ```
 winget install --id Gyan.FFmpeg -e --source winget
 ```
+After installing this Restart Powershell important step
 
 4) THEN EXECUTE THESE COMMANDS
 
