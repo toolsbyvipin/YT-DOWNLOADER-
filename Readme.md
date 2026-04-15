@@ -25,8 +25,9 @@ python Ytply.py
 
 2) 🔧 FFMPEG REQUIRED FOR BEST QUALITY (OPTIONAL)  
 Windows:
-     Download from : https://ffmpeg.org/download.html ,
-   EXTRACT IT AFTER INSTALLATION
+```
+winget install --id Gyan.FFmpeg -e --source winget
+```
 
 4) THEN EXECUTE THESE COMMANDS
 
