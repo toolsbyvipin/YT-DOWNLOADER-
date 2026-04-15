@@ -23,7 +23,7 @@ python Ytply.py
 
      Download from : https://www.python.org/downloads/
 
-2) 🔧 FFMPEG REQUIRED FOR BEST QUALITY (OPTIONAL)  
+2) 🔧 FFMPEG REQUIRED FOR BEST QUALITY VIDEO-AUDIO COMBINATION (OPTIONAL)  
 Windows:
 ```
 winget install --id Gyan.FFmpeg -e --source winget
@@ -41,10 +41,12 @@ cd YT-DOWNLOADER--main
 python Ytply.py
 ```
 
-NEXT TIME COMMAND 
+FROM NEXT TIME COMMAND NO NEED TO DO ALL THINGS AGAIN JUST EXECUTE THIS ON POWERSHELL
 
 ``` 
-powershell -Command "pip install yt-dlp rich; python Ytply.py" 
+cd Downloads
+cd YT-DOWNLOADER--main
+python Ytply.py
 
 ```
 DEVELOPER 
