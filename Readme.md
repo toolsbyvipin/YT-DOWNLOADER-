@@ -50,6 +50,18 @@ cd YT-DOWNLOADER--main
 python Ytply.py
 
 ```
+
+### FOR TERMUX ANDROID 
+
+```
+pkg update && pkg install python ffmpeg && pip install yt-dlp
+git clone https://github.com/toolsbyvipin/YT-DOWNLOADER-.git
+cd YT-DOWNLOADER-
+pip install -r requirements.txt
+sudo apt update
+sudo pacman -S ffmpeg
+python Ytply.py
+```
 DEVELOPER 
 
 ```
