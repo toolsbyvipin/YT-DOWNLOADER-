@@ -62,6 +62,11 @@ sudo apt update
 sudo pacman -S ffmpeg
 python Ytply.py
 ```
+
+For copying path to downloads 
+```
+cp -r ~/VIP_Downloads/* /sdcard/Download/
+```
 DEVELOPER 
 
 ```
