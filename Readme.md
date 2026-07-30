@@ -1,7 +1,7 @@
 🎬 YT-DL PRO - HACKER EDITION
 <p align="center"> <img src="https://img.shields.io/badge/Version-3.0-red?style=for-the-badge&logo=github" alt="Version"/> <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" alt="Python"/> <img src="https://img.shields.io/badge/Platform-All%20OS-green?style=for-the-badge" alt="Platform"/> <img src="https://img.shields.io/badge/Developer-VIP_IN-brightgreen?style=for-the-badge" alt="Developer"/> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=60&lines=🎬+YT-DL+PRO+💀;⚡+Download+Anything;🔓+Break+the+Limits" alt="Typing SVG"/> </p>
 📸 User Interface
-<p align="center"> <img src="https://via.placeholder.com/800x400/0a0a0a/00ff00?text=🎬+YT-DL+PRO+TERMINAL+UI](https://github.com/toolsbyvipin/YT-DOWNLOADER-/blob/40ccb1ba860aa49fe117f4ec85440c71c225407b/Screenshot%20(540).png" alt="YT-DL PRO UI" width="800"/> </p><p align="center"> <i>💀 Cyberpunk-style terminal with real-time download matrix</i> </p>
+<p align="center"> <img src="https://github.com/toolsbyvipin/YT-DOWNLOADER-/blob/6a0182e1c1b7e9bbadf70a6dbb90c718deba0464/Screenshot%20(540).png" alt="YT-DL PRO UI" width="800"/> </p><p align="center"> <i>💀 Cyberpunk-style terminal with real-time download matrix</i> </p>
 
 ---
 
