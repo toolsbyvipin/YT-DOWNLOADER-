@@ -58,7 +58,7 @@ pkg install python git ffmpeg -y
 git clone https://github.com/toolsbyvipin/YT-DOWNLOADER-.git
 cd YT-DOWNLOADER-
 pip install -r requirements.txt
-python ytdl_pro.py
+python Ytply.py
 ```
 
 ---
@@ -108,7 +108,7 @@ pkg install ffmpeg -y
 ### 4. Run
 
 ```bash
-python ytdl_pro.py
+python Ytply.py
 ```
 
 ---
@@ -121,7 +121,7 @@ cd YT-DOWNLOADER-
 
 pip install -r requirements.txt
 
-python ytdl_pro.py
+python Ytply.py
 ```
 
 ---
@@ -205,7 +205,7 @@ pkg install python ffmpeg git -y
 git clone https://github.com/toolsbyvipin/YT-DOWNLOADER-.git
 cd YT-DOWNLOADER-
 pip install -r requirements.txt
-python ytdl_pro.py
+python Ytply.py
 ```
 
 ---
