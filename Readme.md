@@ -38,12 +38,6 @@
 
 ## 🚀 One-Line Installation
 
-### Windows
-
-```powershell
-powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/toolsbyvipin/YT-DOWNLOADER-/main/install.bat' -OutFile install.bat" && install.bat
-```
-
 ### Linux
 
 ```bash
